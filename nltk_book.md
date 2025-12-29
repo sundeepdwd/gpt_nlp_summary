@@ -1,5 +1,5 @@
 Based on the provided book **"Natural Language Processing with Python"**
-
+https://tjzhifei.github.io/resources/NLTK.pdf
 ### **1. Accessing Text Corpora and Lexical Resources**
 NLTK provides built-in access to a vast collection of text corpora (structured text data) and lexical resources (dictionaries).
 
